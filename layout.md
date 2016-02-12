@@ -3,7 +3,6 @@ Methods__.html
 64_32_80__.html
 60cm_17_CRT_Psychtoolbox_Matlab__.html
 p_b_b_nbsp_Go__.html
-p_8_60_480_60__.html
 p_0_5_1_0__.html
 p_nbsp_br_p__.html
 p_br_p__1.html
